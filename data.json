@@ -2,6 +2,58 @@
   {
     "title": "Latest Fashion Trends",
     "description": "Discover the hottest fashion trends for this season. Stay stylish and trendy with our expert fashion advice.",
+    "image": "images/fashion-trends.jpg"
+  },
+  {
+    "title": "Beauty Secrets from the Pros",
+    "description": "Learn beauty tips and secrets from top makeup artists and skincare experts. Achieve the perfect look with our guides.",
+    "image": "images/beauty-secrets.jpg"
+  },
+  {
+    "title": "Luxury Lifestyle Showcase",
+    "description": "Indulge in luxury living with our curated selection of the finest products, destinations, and experiences.",
+    "image": "images/luxury-lifestyle.jpg"
+  },
+  {
+    "title": "Spotlight on Emerging Artists",
+    "description": "Discover talented musicians and artists on the rise. Experience their unique creative expressions and inspiring stories.",
+    "image": "images/emerging-artists.jpg"
+  },
+  {
+    "title": "Design Inspiration Galore",
+    "description": "Get inspired by innovative design concepts, interior decor ideas, and creative solutions for your living spaces.",
+    "image": "images/design-inspiration.jpg"
+  },
+  {
+    "title": "Celebrity Style and Fashion",
+    "description": "Explore the fashion choices of your favorite celebrities. Stay updated on their latest looks and red carpet moments.",
+    "image": "images/celebrity-style.jpg"
+  },
+  {
+    "title": "Artistic Masterpieces",
+    "description": "Immerse yourself in the world of art. Discover remarkable artworks and the stories behind their creation.",
+    "image": "images/artistic-masterpieces.jpg"
+  },
+  {
+    "title": "Iconic Fashion Icons",
+    "description": "Learn about the iconic fashion figures who have left a lasting impact on the industry and continue to inspire.",
+    "image": "images/fashion-icons.jpg"
+  },
+  {
+    "title": "Luxury Travel Destinations",
+    "description": "Plan your dream luxury vacation with our handpicked selection of exclusive travel destinations and experiences.",
+    "image": "images/luxury-travel.jpg"
+  },
+  {
+    "title": "Soulful Music Journey",
+    "description": "Explore the world of soulful music and discover the artists who create beautiful melodies that touch the heart.",
+    "image": "images/soulful-music.jpg"
+  }
+
+[
+  {
+    "title": "Latest Fashion Trends",
+    "description": "Discover the hottest fashion trends for this season. Stay stylish and trendy with our expert fashion advice.",
     "image": "images/1.jpg"
   },
   {
@@ -19,5 +71,8 @@
     "description": "Discover talented musicians and artists on the rise. Experience their unique creative expressions and inspiring stories.",
     "image": "images/4.jpg"
   },
-  // ... (remaining cards)
+  
+]
+
+
 ]

@@ -8,6 +8,7 @@ function createCard(data) {
 
     // Create card content (you can modify this based on your JSON structure)
     card.innerHTML = `
+        <img src="${data.image}" alt="${data.title}">
         <h2>${data.title}</h2>
         <p>${data.description}</p>
         <!-- Add more content here based on your JSON structure -->

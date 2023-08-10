@@ -1,0 +1,13 @@
+[
+  {
+    "image": "fashion1.jpg",
+    "title": "Top 10 Summer Fashion Trends",
+    "description": "Discover the hottest summer fashion trends for a stylish and comfortable season."
+  },
+  {
+    "image": "beauty1.jpg",
+    "title": "Essential Skincare Routine for Healthy Skin",
+    "description": "Learn the step-by-step skincare routine to achieve that radiant and healthy complexion."
+  },
+  // ... (other card entries)
+]

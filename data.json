@@ -1,0 +1,52 @@
+[
+  {
+    "image": "fashion1.jpg",
+    "title": "Top 10 Summer Fashion Trends",
+    "description": "Discover the hottest summer fashion trends for a stylish and comfortable season."
+  },
+  {
+    "image": "beauty1.jpg",
+    "title": "Essential Skincare Routine for Healthy Skin",
+    "description": "Learn the step-by-step skincare routine to achieve that radiant and healthy complexion."
+  },
+  {
+    "image": "luxury1.jpg",
+    "title": "Exclusive Luxury Watches Collection",
+    "description": "Explore the world of luxury watches, from timeless classics to modern masterpieces."
+  },
+  {
+    "image": "singers1.jpg",
+    "title": "Rising Stars: Emerging Singers to Watch",
+    "description": "Get to know the talented and promising singers who are making waves in the music industry."
+  },
+  {
+    "image": "artists1.jpg",
+    "title": "Artists Spotlight: Captivating Visual Creations",
+    "description": "Discover the works of remarkable artists whose creativity knows no bounds, transcending genres."
+  },
+  {
+    "image": "design1.jpg",
+    "title": "Interior Design Inspiration: Urban Elegance",
+    "description": "Get inspired by stunning urban interior designs that strike a perfect balance between aesthetics and functionality."
+  },
+  {
+    "image": "arts1.jpg",
+    "title": "The Beauty of Abstract Art",
+    "description": "Explore the captivating world of abstract art, where colors and shapes come together to evoke emotions and imagination."
+  },
+  {
+    "image": "fashion2.jpg",
+    "title": "Sustainable Fashion: A Greener Approach",
+    "description": "Learn about the sustainable fashion movement and how it's reshaping the industry for a better future."
+  },
+  {
+    "image": "beauty2.jpg",
+    "title": "Makeup Mastery: Tips from the Pros",
+    "description": "Discover professional makeup tips and tricks to enhance your beauty routine and achieve flawless looks."
+  },
+  {
+    "image": "luxury2.jpg",
+    "title": "Indulge in Luxury Travel Experiences",
+    "description": "Escape to the world of opulent luxury travel destinations and create unforgettable memories."
+  }
+]
